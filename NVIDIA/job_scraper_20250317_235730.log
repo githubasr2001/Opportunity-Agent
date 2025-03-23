@@ -1,0 +1,95 @@
+2025-03-17 23:57:37,411 - INFO - Starting NVIDIA job scraper at 2025-03-17 23:57:37
+2025-03-17 23:57:37,414 - INFO - ====== WebDriver manager ======
+2025-03-17 23:57:37,721 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-17 23:57:37,845 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-17 23:57:37,921 - INFO - Driver [/Users/srikar/.wdm/drivers/chromedriver/mac64/134.0.6998.88/chromedriver-mac-arm64/chromedriver] found in cache
+2025-03-17 23:57:39,103 - INFO - Scraping jobs from NVIDIA, searching for 'Design'
+2025-03-17 23:57:43,947 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-17 23:57:43,955 - INFO - Starting to scroll to load all content...
+2025-03-17 23:57:47,452 - INFO - Scroll 1: Height 4149 → 4282, Jobs found: 20
+2025-03-17 23:57:50,916 - INFO - Scroll 2: Height 4282 → 4282, Jobs found: 20
+2025-03-17 23:57:50,917 - INFO - No change detected (1/3)
+2025-03-17 23:57:54,383 - INFO - Scroll 3: Height 4282 → 4282, Jobs found: 20
+2025-03-17 23:57:54,384 - INFO - No change detected (2/3)
+2025-03-17 23:57:57,853 - INFO - Scroll 4: Height 4282 → 4282, Jobs found: 20
+2025-03-17 23:57:57,853 - INFO - No change detected (3/3)
+2025-03-17 23:57:57,854 - INFO - No more content loading after multiple scrolls. Stopping scroll operation.
+2025-03-17 23:57:57,854 - INFO - Completed scrolling after 3 scrolls. Found approximately 20 job items.
+2025-03-17 23:57:58,278 - INFO - Starting pagination handling...
+2025-03-17 23:57:58,278 - INFO - Processing page 1
+2025-03-17 23:57:58,704 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-17 23:57:58,709 - INFO - Found 20 job elements using selector: [data-automation-id='jobTitle']
+2025-03-17 23:57:59,220 - INFO - Added job: Senior ASIC Physical Design Engineer - High Performance Designs at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:57:59,268 - INFO - Added job: Senior Ballout Designer at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:57:59,316 - INFO - Added job: Senior Design Engineer at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:57:59,364 - INFO - Added job: ASIC Design Engineer at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:57:59,412 - INFO - Added job: Clock Design Engineer at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:57:59,461 - INFO - Added job: Physical Design Engineer at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:57:59,511 - INFO - Added job: Physical Design Engineer at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:57:59,559 - INFO - Added job: Manager, Design Verification at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:57:59,611 - INFO - Added job: Physical Design Engineer at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:57:59,662 - INFO - Added job: Physical Design Manager at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:57:59,709 - INFO - Added job: Chip Design Manager at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:57:59,758 - INFO - Added job: Senior Instructional Designer at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:57:59,802 - INFO - Added job: Senior Mask Designer at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:57:59,863 - INFO - Added job: Layout Design Engineer at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:57:59,913 - INFO - Added job: Layout Design Engineer at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:57:59,960 - INFO - Added job: IO Design Engineer at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:58:00,006 - INFO - Added job: Chip Design Student at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:58:00,054 - INFO - Added job: Senior Mask Design Engineer - Hardware at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:58:00,102 - INFO - Added job: Senior Product Architect at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:58:00,153 - INFO - Added job: Hardware Validation Engineer at © 2025 Workday, Inc. All rights reserved.
+2025-03-17 23:58:00,153 - INFO - Found 20 jobs on page 1
+2025-03-17 23:58:00,242 - INFO - Clicked next page button
+2025-03-17 23:58:05,259 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-17 23:58:05,865 - INFO - Collected 20 total jobs after pagination
+2025-03-17 23:58:05,865 - INFO - Getting descriptions for 20 jobs (up to 200)
+2025-03-17 23:58:05,869 - INFO - Getting description for job 1/20: Senior ASIC Physical Design Engineer - High Performance Designs
+2025-03-17 23:58:12,503 - INFO - Saved full-page screenshot to job_description_screenshots/job_1_Senior_ASIC_Physical_Design_Engineer_-_High_Performance_Designs.png
+2025-03-17 23:58:17,775 - INFO - Getting description for job 2/20: Senior Ballout Designer
+2025-03-17 23:58:24,477 - INFO - Saved full-page screenshot to job_description_screenshots/job_2_Senior_Ballout_Designer.png
+2025-03-17 23:58:29,774 - INFO - Getting description for job 3/20: Senior Design Engineer
+2025-03-17 23:58:36,491 - INFO - Saved full-page screenshot to job_description_screenshots/job_3_Senior_Design_Engineer.png
+2025-03-17 23:58:42,011 - INFO - Getting description for job 4/20: ASIC Design Engineer
+2025-03-17 23:58:48,548 - INFO - Saved full-page screenshot to job_description_screenshots/job_4_ASIC_Design_Engineer.png
+2025-03-17 23:58:53,541 - INFO - Getting description for job 5/20: Clock Design Engineer
+2025-03-17 23:59:00,234 - INFO - Saved full-page screenshot to job_description_screenshots/job_5_Clock_Design_Engineer.png
+2025-03-17 23:59:05,553 - INFO - Getting description for job 6/20: Physical Design Engineer
+2025-03-17 23:59:13,246 - INFO - Saved full-page screenshot to job_description_screenshots/job_6_Physical_Design_Engineer.png
+2025-03-17 23:59:18,426 - INFO - Getting description for job 7/20: Physical Design Engineer
+2025-03-17 23:59:24,965 - INFO - Saved full-page screenshot to job_description_screenshots/job_7_Physical_Design_Engineer.png
+2025-03-17 23:59:29,978 - INFO - Getting description for job 8/20: Manager, Design Verification
+2025-03-17 23:59:36,464 - INFO - Saved full-page screenshot to job_description_screenshots/job_8_Manager,_Design_Verification.png
+2025-03-17 23:59:41,437 - INFO - Getting description for job 9/20: Physical Design Engineer
+2025-03-17 23:59:48,930 - INFO - Saved full-page screenshot to job_description_screenshots/job_9_Physical_Design_Engineer.png
+2025-03-17 23:59:52,245 - INFO - Getting description for job 10/20: Physical Design Manager
+2025-03-17 23:59:58,760 - INFO - Saved full-page screenshot to job_description_screenshots/job_10_Physical_Design_Manager.png
+2025-03-18 00:00:01,944 - INFO - Getting description for job 11/20: Chip Design Manager
+2025-03-18 00:00:08,508 - INFO - Saved full-page screenshot to job_description_screenshots/job_11_Chip_Design_Manager.png
+2025-03-18 00:00:11,606 - INFO - Getting description for job 12/20: Senior Instructional Designer
+2025-03-18 00:00:18,238 - INFO - Saved full-page screenshot to job_description_screenshots/job_12_Senior_Instructional_Designer.png
+2025-03-18 00:00:23,431 - INFO - Getting description for job 13/20: Senior Mask Designer
+2025-03-18 00:00:30,006 - INFO - Saved full-page screenshot to job_description_screenshots/job_13_Senior_Mask_Designer.png
+2025-03-18 00:00:34,990 - INFO - Getting description for job 14/20: Layout Design Engineer
+2025-03-18 00:00:41,578 - INFO - Saved full-page screenshot to job_description_screenshots/job_14_Layout_Design_Engineer.png
+2025-03-18 00:00:46,776 - INFO - Getting description for job 15/20: Layout Design Engineer
+2025-03-18 00:00:53,414 - INFO - Saved full-page screenshot to job_description_screenshots/job_15_Layout_Design_Engineer.png
+2025-03-18 00:00:58,458 - INFO - Getting description for job 16/20: IO Design Engineer
+2025-03-18 00:01:05,015 - INFO - Saved full-page screenshot to job_description_screenshots/job_16_IO_Design_Engineer.png
+2025-03-18 00:01:08,364 - INFO - Getting description for job 17/20: Chip Design Student
+2025-03-18 00:01:14,840 - INFO - Saved full-page screenshot to job_description_screenshots/job_17_Chip_Design_Student.png
+2025-03-18 00:01:18,014 - INFO - Getting description for job 18/20: Senior Mask Design Engineer - Hardware
+2025-03-18 00:01:24,563 - INFO - Saved full-page screenshot to job_description_screenshots/job_18_Senior_Mask_Design_Engineer_-_Hardware.png
+2025-03-18 00:01:29,574 - INFO - Getting description for job 19/20: Senior Product Architect
+2025-03-18 00:01:36,215 - INFO - Saved full-page screenshot to job_description_screenshots/job_19_Senior_Product_Architect.png
+2025-03-18 00:01:41,533 - INFO - Getting description for job 20/20: Hardware Validation Engineer
+2025-03-18 00:01:48,139 - INFO - Saved full-page screenshot to job_description_screenshots/job_20_Hardware_Validation_Engineer.png
+2025-03-18 00:01:56,823 - INFO - Completed fetching descriptions for 20 jobs
+2025-03-18 00:01:56,825 - INFO - Saving all 20 jobs found in search results
+2025-03-18 00:01:57,078 - INFO - Detailed jobs saved to 'nvidia_jobs_detailed_Design_20250318_000157.csv'
+2025-03-18 00:01:57,081 - INFO - Simplified jobs list saved to 'nvidia_jobs_simple_Design_20250318_000157.csv'
+2025-03-18 00:01:57,084 - INFO - Jobs filtered by keyword 'Design' saved to 'nvidia_jobs_filtered_Design_20250318_000157.csv'
+2025-03-18 00:01:57,084 - INFO - Found 18 jobs matching the keyword out of 20 total jobs
+2025-03-18 00:01:57,088 - INFO - Completed in 259.68 seconds
+2025-03-18 00:01:57,094 - ERROR - No such comm target registered: jupyter.widget.control
+2025-03-18 00:01:57,095 - WARNING - No such comm: e3d3ccb2-c609-4e11-8433-37206a3ddd2c

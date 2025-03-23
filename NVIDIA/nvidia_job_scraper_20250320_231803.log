@@ -1,0 +1,459 @@
+2025-03-20 23:18:19,222 - INFO - Starting NVIDIA job scraper at 2025-03-20 23:18:19.222506
+2025-03-20 23:18:19,224 - INFO - ====== WebDriver manager ======
+2025-03-20 23:18:28,342 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-20 23:18:28,471 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-20 23:18:28,531 - INFO - Driver [/Users/srikar/.wdm/drivers/chromedriver/mac64/134.0.6998.90/chromedriver-mac-arm64/chromedriver] found in cache
+2025-03-20 23:18:30,159 - INFO - Scraping NVIDIA jobs with keyword 'Software Engineer'
+2025-03-20 23:18:33,122 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:18:33,127 - INFO - Starting to scroll to load all content...
+2025-03-20 23:18:35,615 - INFO - Scroll 1: Height 4282 → 4282, Jobs: 20
+2025-03-20 23:18:38,094 - INFO - Scroll 2: Height 4282 → 4282, Jobs: 20
+2025-03-20 23:18:40,548 - INFO - Scroll 3: Height 4282 → 4282, Jobs: 20
+2025-03-20 23:18:43,012 - INFO - Scroll 4: Height 4282 → 4282, Jobs: 20
+2025-03-20 23:18:43,012 - INFO - No more content loading. Stopping scroll.
+2025-03-20 23:18:43,012 - INFO - Completed scrolling after 3 scrolls. Found 20 jobs.
+2025-03-20 23:18:43,013 - INFO - Starting pagination handling...
+2025-03-20 23:18:43,013 - INFO - Processing page 1
+2025-03-20 23:18:43,429 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:18:43,435 - INFO - Found 20 jobs with selector: [data-automation-id='jobTitle']
+2025-03-20 23:18:43,463 - INFO - Added job: Software Engineer at Not specified
+2025-03-20 23:18:43,480 - INFO - Added job: Senior Software Engineer at Not specified
+2025-03-20 23:18:43,496 - INFO - Added job: Senior Software Engineer at Not specified
+2025-03-20 23:18:43,512 - INFO - Added job: Senior Software Engineer at Not specified
+2025-03-20 23:18:43,528 - INFO - Added job: Senior Software Engineer at Not specified
+2025-03-20 23:18:43,544 - INFO - Added job: System Software Engineer at Not specified
+2025-03-20 23:18:43,560 - INFO - Added job: Manager, Software Engineering at Not specified
+2025-03-20 23:18:43,577 - INFO - Added job: Senior Software Engineer at Not specified
+2025-03-20 23:18:43,595 - INFO - Added job: Senior Performance Software Engineer at Not specified
+2025-03-20 23:18:43,613 - INFO - Added job: Software Engineering Manager - Libraries at Not specified
+2025-03-20 23:18:43,630 - INFO - Added job: EDA System Software Engineer at Not specified
+2025-03-20 23:18:43,647 - INFO - Added job: Senior Software Engineer - HPC at Not specified
+2025-03-20 23:18:43,664 - INFO - Added job: Senior Software Engineer - Backend at Not specified
+2025-03-20 23:18:43,682 - INFO - Added job: Senior System Software Engineer at Not specified
+2025-03-20 23:18:43,700 - INFO - Added job: Graphics Tools Software Engineer at Not specified
+2025-03-20 23:18:43,717 - INFO - Added job: Senior System Software Engineer at Not specified
+2025-03-20 23:18:43,734 - INFO - Added job: Senior Software Engineer - Networking at Not specified
+2025-03-20 23:18:43,751 - INFO - Added job: Senior Systems Software Engineer at Not specified
+2025-03-20 23:18:43,788 - INFO - Added job: Software Engineering Intern - 2025 at Not specified
+2025-03-20 23:18:43,808 - INFO - Added job: Software Engineering Intern - OpenBMC at Not specified
+2025-03-20 23:18:43,809 - INFO - Found 20 jobs on page 1
+2025-03-20 23:18:43,884 - INFO - Clicked next page button
+2025-03-20 23:18:48,901 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:18:48,903 - INFO - Processing page 1
+2025-03-20 23:18:49,501 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:18:49,507 - INFO - Found 20 jobs with selector: [data-automation-id='jobTitle']
+2025-03-20 23:18:49,523 - INFO - Added job: Senior Manager, Software Engineering at Not specified
+2025-03-20 23:18:49,540 - INFO - Added job: Senior C++ Software Engineer at Not specified
+2025-03-20 23:18:49,556 - INFO - Added job: System Software Engineer - CUDA Driver at Not specified
+2025-03-20 23:18:49,572 - INFO - Added job: Senior Full-Stack Software Engineer at Not specified
+2025-03-20 23:18:49,588 - INFO - Added job: Senior Software Engineer – Build Tools at Not specified
+2025-03-20 23:18:49,603 - INFO - Added job: Senior Platform Software Engineer, PCIe at Not specified
+2025-03-20 23:18:49,619 - INFO - Added job: Senior System Profiling Software Engineer at Not specified
+2025-03-20 23:18:49,634 - INFO - Added job: Senior GPU Cluster Software Engineer at Not specified
+2025-03-20 23:18:49,650 - INFO - Added job: VLSI Design Automation Software Engineer at Not specified
+2025-03-20 23:18:49,665 - INFO - Added job: Senior Generalist Software Engineer -- Omniverse at Not specified
+2025-03-20 23:18:49,681 - INFO - Added job: Senior Software Engineer - CUDA Python at Not specified
+2025-03-20 23:18:49,697 - INFO - Added job: Senior System Software Engineer - Tegra at Not specified
+2025-03-20 23:18:49,712 - INFO - Added job: Senior Software Engineer-Distributed Inference at Not specified
+2025-03-20 23:18:49,729 - INFO - Added job: Software Engineer - Robot Learning Platform at Not specified
+2025-03-20 23:18:49,745 - INFO - Added job: Tegra Software Engineer (RDSS Intern) at Not specified
+2025-03-20 23:18:49,762 - INFO - Added job: Software Engineering Intern - Autonomous Vehicles at Not specified
+2025-03-20 23:18:49,780 - INFO - Added job: Software Engineering Intern - Autonomous Vehicles at Not specified
+2025-03-20 23:18:49,796 - INFO - Added job: System Software Engineering Intern - 2025 at Not specified
+2025-03-20 23:18:49,812 - INFO - Added job: Senior C/C++ Software Engineer at Not specified
+2025-03-20 23:18:49,828 - INFO - Added job: Senior Software Engineer - Switch Simulation at Not specified
+2025-03-20 23:18:49,828 - INFO - Found 20 jobs on page 1
+2025-03-20 23:18:49,867 - INFO - Clicked next page button
+2025-03-20 23:18:54,884 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:18:54,886 - INFO - Processing page 1
+2025-03-20 23:18:55,488 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:18:55,494 - INFO - Found 20 jobs with selector: [data-automation-id='jobTitle']
+2025-03-20 23:18:55,511 - INFO - Added job: Senior Software Engineer - Ethernet Switch at Not specified
+2025-03-20 23:18:55,527 - INFO - Added job: Senior Software Engineer - Ethernet Switch at Not specified
+2025-03-20 23:18:55,543 - INFO - Added job: Senior Automation Tools Software Engineer at Not specified
+2025-03-20 23:18:55,561 - INFO - Added job: Android Software Engineering Intern - 2025 at Not specified
+2025-03-20 23:18:55,578 - INFO - Added job: DFX Software Engineer (RDSS Intern) at Not specified
+2025-03-20 23:18:55,594 - INFO - Added job: Senior Deep Learning Software Engineer at Not specified
+2025-03-20 23:18:55,610 - INFO - Added job: Senior GPU System Software Engineer at Not specified
+2025-03-20 23:18:55,627 - INFO - Added job: System Memory Validation Software Engineer at Not specified
+2025-03-20 23:18:55,643 - INFO - Added job: Software Engineering Intern - Map Tools at Not specified
+2025-03-20 23:18:55,659 - INFO - Added job: Senior Software Engineer - Conversational AI at Not specified
+2025-03-20 23:18:55,676 - INFO - Added job: Performance Software Engineering Intern - 2025 at Not specified
+2025-03-20 23:18:55,693 - INFO - Added job: Senior System Software Engineer, Firmware at Not specified
+2025-03-20 23:18:55,709 - INFO - Added job: Product Validation Tools Software Engineer at Not specified
+2025-03-20 23:18:55,725 - INFO - Added job: Senior Software Engineer, AI Resiliency at Not specified
+2025-03-20 23:18:55,742 - INFO - Added job: Software Engineering Intern, AI Engineering - 2025 at Not specified
+2025-03-20 23:18:55,758 - INFO - Added job: Software QA Engineer at Not specified
+2025-03-20 23:18:55,775 - INFO - Added job: Software Linux Engineer at Not specified
+2025-03-20 23:18:55,793 - INFO - Added job: Senior Deep Learning Software Engineer, cuDNN at Not specified
+2025-03-20 23:18:55,809 - INFO - Added job: Senior Software Engineer - SONiC Design Group at Not specified
+2025-03-20 23:18:55,827 - INFO - Added job: Senior Software Engineer – Simulation and Virtualization at Not specified
+2025-03-20 23:18:55,827 - INFO - Found 20 jobs on page 1
+2025-03-20 23:18:55,869 - INFO - Clicked next page button
+2025-03-20 23:19:00,882 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:00,884 - INFO - Processing page 1
+2025-03-20 23:19:01,485 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:01,491 - INFO - Found 20 jobs with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:01,508 - INFO - Added job: Senior Software Engineer – Simulation and Virtualization at Not specified
+2025-03-20 23:19:01,525 - INFO - Added job: Senior CUDA Compute Systems Software Engineer at Not specified
+2025-03-20 23:19:01,543 - INFO - Added job: System Software Engineer, GPU Development Tools at Not specified
+2025-03-20 23:19:01,561 - INFO - Added job: System Software Engineer, GPU Development Tools at Not specified
+2025-03-20 23:19:01,578 - INFO - Added job: Senior Deep Learning Software Engineer, Inference at Not specified
+2025-03-20 23:19:01,595 - INFO - Added job: Senior System Software Engineer, GPU Firmware at Not specified
+2025-03-20 23:19:01,611 - INFO - Added job: Senior Software Engineer - Automated Parallel Programming at Not specified
+2025-03-20 23:19:01,627 - INFO - Added job: Senior Software Engineer - System Customization Team at Not specified
+2025-03-20 23:19:01,643 - INFO - Added job: Security System Software Engineer (RDSS Intern) at Not specified
+2025-03-20 23:19:01,659 - INFO - Added job: Software Engineering Intern, Test Development - 2025 at Not specified
+2025-03-20 23:19:01,675 - INFO - Added job: Deep-Learning Software Engineer, Performance Optimization at Not specified
+2025-03-20 23:19:01,691 - INFO - Added job: AI Algorithms Software Engineer (RDSS Intern) at Not specified
+2025-03-20 23:19:01,707 - INFO - Added job: Software Engineer Intern, Autonomous Vehicle - 2025 at Not specified
+2025-03-20 23:19:01,724 - INFO - Added job: Software Engineer Intern - Autonomous Vehicles - 2025 at Not specified
+2025-03-20 23:19:01,740 - INFO - Added job: Senior Systems Software Engineer, CUDA Driver at Not specified
+2025-03-20 23:19:01,755 - INFO - Added job: Software Engineering Manager - Data Processing Libraries at Not specified
+2025-03-20 23:19:01,770 - INFO - Added job: AI Computing Software Engineering Intern, TensorRT at Not specified
+2025-03-20 23:19:01,786 - INFO - Added job: Senior Software Engineer - Robot Learning Platform at Not specified
+2025-03-20 23:19:01,802 - INFO - Added job: GPU Kernel Software Engineering Intern - 2025 at Not specified
+2025-03-20 23:19:01,818 - INFO - Added job: Software Engineering, Autonomous Vehicles (RDSS Intern) at Not specified
+2025-03-20 23:19:01,818 - INFO - Found 20 jobs on page 1
+2025-03-20 23:19:01,860 - INFO - Clicked next page button
+2025-03-20 23:19:06,874 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:06,875 - INFO - Processing page 1
+2025-03-20 23:19:07,462 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:07,469 - INFO - Found 20 jobs with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:07,487 - INFO - Added job: Senior Software Engineer, VLSI AI Agent at Not specified
+2025-03-20 23:19:07,505 - INFO - Added job: System Software Engineering Intern, GPU - 2025 at Not specified
+2025-03-20 23:19:07,523 - INFO - Added job: Software Engineering Intern - CUDA Test Development at Not specified
+2025-03-20 23:19:07,541 - INFO - Added job: Software Engineering Intern, Test Development - 2025 at Not specified
+2025-03-20 23:19:07,559 - INFO - Added job: Software Engineering Intern, Test Development - 2025 at Not specified
+2025-03-20 23:19:07,577 - INFO - Added job: Principal Software Engineer - Enterprise AI Platform at Not specified
+2025-03-20 23:19:07,594 - INFO - Added job: Senior System Software Engineer - Autonomous Driving at Not specified
+2025-03-20 23:19:07,636 - INFO - Added job: Senior Software Engineer, Linux Kernel Upstream at Not specified
+2025-03-20 23:19:07,653 - INFO - Added job: Senior Software Engineer – Simulation and Virtualization at Not specified
+2025-03-20 23:19:07,672 - INFO - Added job: Senior Software Engineer, Graphics and Gaming at Not specified
+2025-03-20 23:19:07,689 - INFO - Added job: Senior Software Engineer, Functional Safety Tools at Not specified
+2025-03-20 23:19:07,707 - INFO - Added job: Senior Software Engineer, CAD Tool Development at Not specified
+2025-03-20 23:19:07,726 - INFO - Added job: Senior Software Engineer, VLSI Design Tools at Not specified
+2025-03-20 23:19:07,744 - INFO - Added job: Senior System Software Engineer, Robotics Simulation at Not specified
+2025-03-20 23:19:07,764 - INFO - Added job: Senior System Software Engineer, Robotics Simulation at Not specified
+2025-03-20 23:19:07,785 - INFO - Added job: Senior C++ Software Engineer - Chip Design Tools at Not specified
+2025-03-20 23:19:07,803 - INFO - Added job: Senior C++ Software Engineer - Apache Spark Solution at Not specified
+2025-03-20 23:19:07,821 - INFO - Added job: Principal Platform Software Engineer - OpenBMC Platform Architect at Not specified
+2025-03-20 23:19:07,837 - INFO - Added job: Senior Software Engineer, GPU Communications and Networking at Not specified
+2025-03-20 23:19:07,854 - INFO - Added job: Senior System Software Engineer, NCCL - Partner Enablement at Not specified
+2025-03-20 23:19:07,854 - INFO - Found 20 jobs on page 1
+2025-03-20 23:19:07,896 - INFO - Clicked next page button
+2025-03-20 23:19:12,911 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:12,912 - INFO - Processing page 1
+2025-03-20 23:19:13,522 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:13,528 - INFO - Found 19 jobs with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:13,564 - INFO - Added job: Senior Software Engineer - Build and Deployment Tools at Not specified
+2025-03-20 23:19:13,586 - INFO - Added job: Senior System Software Engineer, Performance - CUDA Driver at Not specified
+2025-03-20 23:19:13,603 - INFO - Added job: Senior System Software Engineer - Triton Inference Server at Not specified
+2025-03-20 23:19:13,621 - INFO - Added job: Software Engineering Manager, Sparse Linear Algebra Libraries at Not specified
+2025-03-20 23:19:13,638 - INFO - Added job: System Software Engineer Intern - Autonomous Vehicles - 2025 at Not specified
+2025-03-20 23:19:13,656 - INFO - Added job: Software Engineer Intern, Perception - Autonomous Vehicles - 2025 at Not specified
+2025-03-20 23:19:13,672 - INFO - Added job: System Software Engineer Intern, Autonomous Vehicles - 2025 at Not specified
+2025-03-20 23:19:13,689 - INFO - Added job: Senior Software Engineer - Python Numerical Computing Libraries at Not specified
+2025-03-20 23:19:13,706 - INFO - Added job: Senior Staff Software Engineer - Observability and Monitoring at Not specified
+2025-03-20 23:19:13,722 - INFO - Added job: System Software Engineer - Base OS (RDSS Intern) at Not specified
+2025-03-20 23:19:13,740 - INFO - Added job: Software Engineer Intern - Mapping and Generative AI at Not specified
+2025-03-20 23:19:13,757 - INFO - Added job: Software Engineering Intern, Autonomous Vehicle Product - 2025 at Not specified
+2025-03-20 23:19:13,774 - INFO - Added job: Senior Software Engineer - Build, Packaging and DevOps at Not specified
+2025-03-20 23:19:13,791 - INFO - Added job: Senior Systems Software Engineer, Data Center - CUDA at Not specified
+2025-03-20 23:19:13,809 - INFO - Added job: Software Engineering Manager, Distributed Task-based Runtimes at Not specified
+2025-03-20 23:19:13,826 - INFO - Added job: Senior SRE Software Engineer, Storage and Data at Not specified
+2025-03-20 23:19:13,844 - INFO - Added job: Senior SRE Software Engineer, Storage and Data at Not specified
+2025-03-20 23:19:13,861 - INFO - Added job: Senior System Software Engineer, Deep Learning Accelerator at Not specified
+2025-03-20 23:19:13,879 - INFO - Added job: Senior Software Engineer - Data Center System Bringup at Not specified
+2025-03-20 23:19:13,879 - INFO - Found 19 jobs on page 1
+2025-03-20 23:19:13,922 - INFO - Clicked next page button
+2025-03-20 23:19:18,936 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:18,937 - INFO - Processing page 1
+2025-03-20 23:19:19,530 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:19,535 - INFO - Found 20 jobs with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:19,552 - INFO - Added job: Senior Tool and Methodology Development Software Engineer at Not specified
+2025-03-20 23:19:19,593 - INFO - Added job: System Software Engineer, Database and API Design at Not specified
+2025-03-20 23:19:19,611 - INFO - Added job: Senior AI and LLM Solutions Software Engineer at Not specified
+2025-03-20 23:19:19,628 - INFO - Added job: Senior Infrastructure Software Engineer, Deep Learning Libraries at Not specified
+2025-03-20 23:19:19,646 - INFO - Added job: Senior Software Verification Engineer at Not specified
+2025-03-20 23:19:19,663 - INFO - Added job: System Software Application Engineer at Not specified
+2025-03-20 23:19:19,680 - INFO - Added job: Senior Software Verification Engineer at Not specified
+2025-03-20 23:19:19,697 - INFO - Added job: Senior Software Validation Engineer at Not specified
+2025-03-20 23:19:19,714 - INFO - Added job: Senior System Software Engineer, CUDA Driver for Windows at Not specified
+2025-03-20 23:19:19,732 - INFO - Added job: Senior Software Engineer- Windows for ARM and TEGRA at Not specified
+2025-03-20 23:19:19,749 - INFO - Added job: Senior System Software Engineer Platform - Server Embedded Firmware at Not specified
+2025-03-20 23:19:19,765 - INFO - Added job: System Software Engineer Intern, Apache Spark Solutions - 2025 at Not specified
+2025-03-20 23:19:19,782 - INFO - Added job: Senior Software Engineer, Bare Metal Automation - DGX Cloud at Not specified
+2025-03-20 23:19:19,798 - INFO - Added job: Software Engineering Manager - Image and Data Compression Libraries at Not specified
+2025-03-20 23:19:19,815 - INFO - Added job: AI and ML Infra Software Engineer, GPU Clusters at Not specified
+2025-03-20 23:19:19,833 - INFO - Added job: Senior Software Engineer, Hardware Tools and Methodology Development at Not specified
+2025-03-20 23:19:19,850 - INFO - Added job: System Software Engineer, GPU Server Diag - New College Graduate at Not specified
+2025-03-20 23:19:19,867 - INFO - Added job: Senior Software Engineer - Data Center Rack and Power Management Engineering at Not specified
+2025-03-20 23:19:19,884 - INFO - Added job: Senior Switch Software Verification Engineer at Not specified
+2025-03-20 23:19:19,901 - INFO - Added job: System Software Engineer (RDSS Intern) – Embedded and Automotive Power Management at Not specified
+2025-03-20 23:19:19,901 - INFO - Found 20 jobs on page 1
+2025-03-20 23:19:19,943 - INFO - Clicked next page button
+2025-03-20 23:19:24,957 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:24,958 - INFO - Processing page 1
+2025-03-20 23:19:25,571 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:25,579 - INFO - Found 20 jobs with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:25,601 - INFO - Added job: AI Computing Software Development Engineer, TensorRT at Not specified
+2025-03-20 23:19:25,618 - INFO - Added job: AI Computing Software Development Engineer, TensorRT at Not specified
+2025-03-20 23:19:25,636 - INFO - Added job: Senior Software Verification Engineer - Switch Simulation at Not specified
+2025-03-20 23:19:25,653 - INFO - Added job: Senior Software Development Engineer in Test at Not specified
+2025-03-20 23:19:25,670 - INFO - Added job: Senior NVLink System Software Bringup Engineer - Fabric Networking GPU at Not specified
+2025-03-20 23:19:25,688 - INFO - Added job: VLSI Backend Integration Engineer at Not specified
+2025-03-20 23:19:25,705 - INFO - Added job: STA Backend Engineer at Not specified
+2025-03-20 23:19:25,722 - INFO - Added job: Backend Engineer, Full Chip Layout at Not specified
+2025-03-20 23:19:25,740 - INFO - Added job: Principal Engineer - DL and AI Software at Not specified
+2025-03-20 23:19:25,759 - INFO - Added job: Software Manager, DOCA Verification at Not specified
+2025-03-20 23:19:25,778 - INFO - Added job: Software Program Manager at Not specified
+2025-03-20 23:19:25,797 - INFO - Added job: Senior Software Manager at Not specified
+2025-03-20 23:19:25,814 - INFO - Added job: Senior Software Configuration Management Engineer-SCM at Not specified
+2025-03-20 23:19:25,832 - INFO - Added job: Enterprise Software Test Development Engineer (RDSS Intern) at Not specified
+2025-03-20 23:19:25,850 - INFO - Added job: Enterprise Software Test Development Engineer (RDSS Intern) at Not specified
+2025-03-20 23:19:25,868 - INFO - Added job: Software Test Development Engineer at Not specified
+2025-03-20 23:19:25,885 - INFO - Added job: Software Test Development Engineer at Not specified
+2025-03-20 23:19:25,903 - INFO - Added job: System Software Architect, Programmable Vision Accelerator at Not specified
+2025-03-20 23:19:25,920 - INFO - Added job: Principal Firmware Engineer - Data Center Server Management at Not specified
+2025-03-20 23:19:25,938 - INFO - Added job: Senior Software QA Automation Engineer at Not specified
+2025-03-20 23:19:25,938 - INFO - Found 20 jobs on page 1
+2025-03-20 23:19:25,981 - INFO - Clicked next page button
+2025-03-20 23:19:30,996 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:30,997 - INFO - Processing page 1
+2025-03-20 23:19:31,600 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:31,606 - INFO - Found 20 jobs with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:31,624 - INFO - Added job: Senior Software QA Automation Engineer at Not specified
+2025-03-20 23:19:31,643 - INFO - Added job: Senior Software Test Development Engineer at Not specified
+2025-03-20 23:19:31,661 - INFO - Added job: Manager, Software Verification at Not specified
+2025-03-20 23:19:31,682 - INFO - Added job: Manager, Systems Software at Not specified
+2025-03-20 23:19:31,700 - INFO - Added job: Senior Software Developer at Not specified
+2025-03-20 23:19:31,717 - INFO - Added job: Senior Software Developer at Not specified
+2025-03-20 23:19:31,735 - INFO - Added job: Software Verification Manager at Not specified
+2025-03-20 23:19:31,752 - INFO - Added job: Technical Marketing Engineer - AI Platform Software at Not specified
+2025-03-20 23:19:31,769 - INFO - Added job: Senior Software QA Test Development Engineer at Not specified
+2025-03-20 23:19:31,786 - INFO - Added job: Director, AI Software at Not specified
+2025-03-20 23:19:31,803 - INFO - Added job: Software Advanced Developer at Not specified
+2025-03-20 23:19:31,821 - INFO - Added job: Product Marketing Manager - Inference Optimization Software at Not specified
+2025-03-20 23:19:31,838 - INFO - Added job: Machine Learning Software Platform Architect at Not specified
+2025-03-20 23:19:31,855 - INFO - Added job: Distinguished Engineer – Data Center System Software Architect at Not specified
+2025-03-20 23:19:31,894 - INFO - Added job: Senior Compiler Engineer, Software - Deep Learning Accelerator at Not specified
+2025-03-20 23:19:31,912 - INFO - Added job: Senior Manager, Software Architecture at Not specified
+2025-03-20 23:19:31,929 - INFO - Added job: Senior Software Architect - Data Center Systems at Not specified
+2025-03-20 23:19:31,953 - INFO - Added job: Senior Software Developer, HPC Cluster Management at Not specified
+2025-03-20 23:19:31,973 - INFO - Added job: Senior Technical Program Manager - Deep Learning Enterprise Server Software at Not specified
+2025-03-20 23:19:31,991 - INFO - Added job: Senior Software Research Architect at Not specified
+2025-03-20 23:19:32,012 - INFO - Found 20 jobs on page 1
+2025-03-20 23:19:32,057 - INFO - Clicked next page button
+2025-03-20 23:19:37,073 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:37,074 - INFO - Processing page 1
+2025-03-20 23:19:37,662 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:37,668 - INFO - Found 20 jobs with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:37,685 - INFO - Added job: Senior Manager, SONiC Software at Not specified
+2025-03-20 23:19:37,703 - INFO - Added job: Senior Technical Program Manager, Compute Software Platform- NPI at Not specified
+2025-03-20 23:19:37,721 - INFO - Added job: Automotive DriveOS Software Architect at Not specified
+2025-03-20 23:19:37,740 - INFO - Added job: Distinguished Software Architect - Deep Learning and HPC Communications at Not specified
+2025-03-20 23:19:37,757 - INFO - Added job: Senior Software Architect - Deep Learning and HPC Communications at Not specified
+2025-03-20 23:19:37,799 - INFO - Added job: Senior Software Architect, AI Networking at Not specified
+2025-03-20 23:19:37,817 - INFO - Added job: Senior Software and System Architect at Not specified
+2025-03-20 23:19:37,834 - INFO - Added job: Senior Software and Cloud Architect at Not specified
+2025-03-20 23:19:37,852 - INFO - Added job: Senior Software and System Architect at Not specified
+2025-03-20 23:19:37,869 - INFO - Added job: Senior Software and System Architect at Not specified
+2025-03-20 23:19:37,887 - INFO - Added job: Machine Learning Software Platform Architect at Not specified
+2025-03-20 23:19:37,904 - INFO - Added job: Networking Software and System Architect at Not specified
+2025-03-20 23:19:37,921 - INFO - Added job: SDK Eth Software Team Manager at Not specified
+2025-03-20 23:19:37,939 - INFO - Added job: Senior Software Architect, Advanced Development at Not specified
+2025-03-20 23:19:37,956 - INFO - Added job: Senior Software Architect, Advanced Development at Not specified
+2025-03-20 23:19:37,973 - INFO - Added job: Web Software Development Intern - 2025 at Not specified
+2025-03-20 23:19:37,991 - INFO - Added job: Principal Engineer at Not specified
+2025-03-20 23:19:38,009 - INFO - Added job: Senior System Software Architect, HPC Networking at Not specified
+2025-03-20 23:19:38,026 - INFO - Added job: System Software Architecture Researcher- PhD Program at Not specified
+2025-03-20 23:19:38,044 - INFO - Added job: Software Manager, Switch Performance Testing - Python at Not specified
+2025-03-20 23:19:38,044 - INFO - Found 20 jobs on page 1
+2025-03-20 23:19:38,084 - INFO - Clicked next page button
+2025-03-20 23:19:43,098 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:43,100 - INFO - Processing page 1
+2025-03-20 23:19:43,706 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:43,711 - INFO - Found 20 jobs with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:43,728 - INFO - Added job: Principal Software Architect, GPU Networking Research at Not specified
+2025-03-20 23:19:43,746 - INFO - Added job: Principal Software Architect, GPU Networking Research at Not specified
+2025-03-20 23:19:43,763 - INFO - Added job: DFX CAD Tools Development Engineer at Not specified
+2025-03-20 23:19:43,797 - INFO - Added job: Senior Synthesis Flow CAD Engineer at Not specified
+2025-03-20 23:19:43,817 - INFO - Added job: Senior Synthesis Flow Development Engineer at Not specified
+2025-03-20 23:19:43,835 - INFO - Added job: Senior DevOps Engineer at Not specified
+2025-03-20 23:19:43,852 - INFO - Added job: Senior IT Business Systems Analyst - Software and Services at Not specified
+2025-03-20 23:19:43,869 - INFO - Added job: Senior Technical Marketing Engineer - AI Infrastructure at Not specified
+2025-03-20 23:19:43,887 - INFO - Added job: Senior Python Engineer, Networking at Not specified
+2025-03-20 23:19:43,904 - INFO - Added job: Senior Site Reliability Engineer - GPU Clusters at Not specified
+2025-03-20 23:19:43,922 - INFO - Added job: Senior Hypervisor and RTOS Engineer at Not specified
+2025-03-20 23:19:43,939 - INFO - Added job: Senior ASIC Infrastructure Engineer at Not specified
+2025-03-20 23:19:43,956 - INFO - Added job: Senior Product Engineer - Board Products at Not specified
+2025-03-20 23:19:43,973 - INFO - Added job: Senior ASIC Infrastructure Engineer at Not specified
+2025-03-20 23:19:43,991 - INFO - Added job: CAD Developer, Timing and Physical Design Optimization at Not specified
+2025-03-20 23:19:44,009 - INFO - Added job: Senior Distributed Storage Engineer at Not specified
+2025-03-20 23:19:44,026 - INFO - Added job: Senior Math Libraries Engineer - Sparse Linear Algebra at Not specified
+2025-03-20 23:19:44,043 - INFO - Added job: Senior Math Libraries Engineers - Python APIs at Not specified
+2025-03-20 23:19:44,061 - INFO - Added job: Senior Security Engineer, Purple Team - GPU Firmware at Not specified
+2025-03-20 23:19:44,102 - INFO - Added job: Senior Deep Learning Research Engineer, Advanced AI Systems at Not specified
+2025-03-20 23:19:44,103 - INFO - Found 20 jobs on page 1
+2025-03-20 23:19:44,142 - INFO - Clicked next page button
+2025-03-20 23:19:49,156 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:49,157 - INFO - Processing page 1
+2025-03-20 23:19:49,749 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:49,755 - INFO - Found 19 jobs with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:49,772 - INFO - Added job: Senior CAD Developer, Timing Optimization Tools at Not specified
+2025-03-20 23:19:49,789 - INFO - Added job: Senior AI Cluster Tools Developer at Not specified
+2025-03-20 23:19:49,806 - INFO - Added job: Senior RTL Analysis Methodology Engineer at Not specified
+2025-03-20 23:19:49,823 - INFO - Added job: Senior Applied LLM Engineer, AI – Chip Design at Not specified
+2025-03-20 23:19:49,840 - INFO - Added job: Platform Technical Program Manager, AI Computing Infrastructure at Not specified
+2025-03-20 23:19:49,857 - INFO - Added job: MCU Firmware Engineer at Not specified
+2025-03-20 23:19:49,875 - INFO - Added job: Manufacturing Engineer at Not specified
+2025-03-20 23:19:49,892 - INFO - Added job: Deep Learning Performance Architect at Not specified
+2025-03-20 23:19:49,927 - INFO - Added job: Senior Technical Program Manager – NPI Datacenter Compute Server Accelerators at Not specified
+2025-03-20 23:19:49,947 - INFO - Added job: Circuit Engineer at Not specified
+2025-03-20 23:19:49,964 - INFO - Added job: Senior Research Scientist at Not specified
+2025-03-20 23:19:49,981 - INFO - Added job: Senior Test Engineer at Not specified
+2025-03-20 23:19:49,999 - INFO - Added job: Silicon Power Engineer at Not specified
+2025-03-20 23:19:50,016 - INFO - Added job: Senior Research Scientist at Not specified
+2025-03-20 23:19:50,033 - INFO - Added job: Solutions Architect, Generative AI at Not specified
+2025-03-20 23:19:50,051 - INFO - Added job: Senior DevOps Engineer at Not specified
+2025-03-20 23:19:50,069 - INFO - Added job: Senior Firmware Engineer at Not specified
+2025-03-20 23:19:50,086 - INFO - Added job: EMC Engineer at Not specified
+2025-03-20 23:19:50,104 - INFO - Added job: Silicon Power Engineer at Not specified
+2025-03-20 23:19:50,104 - INFO - Found 19 jobs on page 1
+2025-03-20 23:19:50,152 - INFO - Clicked next page button
+2025-03-20 23:19:55,168 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:55,170 - INFO - Processing page 1
+2025-03-20 23:19:55,756 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:55,761 - INFO - Found 20 jobs with selector: [data-automation-id='jobTitle']
+2025-03-20 23:19:55,778 - INFO - Added job: Image and Data Processing Libraries Intern at Not specified
+2025-03-20 23:19:55,796 - INFO - Added job: GPU Firmware Engineer (RDSS Intern) at Not specified
+2025-03-20 23:19:55,813 - INFO - Added job: AI Developer Technology Engineer at Not specified
+2025-03-20 23:19:55,830 - INFO - Added job: Senior Manager, Test Engineering at Not specified
+2025-03-20 23:19:55,848 - INFO - Added job: Distinguished Engineer, AI Resiliency Lead at Not specified
+2025-03-20 23:19:55,866 - INFO - Added job: DFT Engineer at Not specified
+2025-03-20 23:19:55,883 - INFO - Added job: Senior Design Engineer at Not specified
+2025-03-20 23:19:55,901 - INFO - Added job: Silicon Reliability Engineer at Not specified
+2025-03-20 23:19:55,918 - INFO - Added job: Developer Technology Engineer - AI at Not specified
+2025-03-20 23:19:55,935 - INFO - Added job: Senior Thermal Design Engineer at Not specified
+2025-03-20 23:19:55,952 - INFO - Added job: Senior HPC AI Cluster Engineer at Not specified
+2025-03-20 23:19:55,988 - INFO - Added job: Senior HPC DevOps Engineer at Not specified
+2025-03-20 23:19:56,008 - INFO - Added job: Deep Learning Algorithms Manager at Not specified
+2025-03-20 23:19:56,025 - INFO - Added job: Silicon Photonics Test Engineer at Not specified
+2025-03-20 23:19:56,043 - INFO - Added job: Senior ASIC Engineer at Not specified
+2025-03-20 23:19:56,061 - INFO - Added job: Senior Production Engineer - Storage at Not specified
+2025-03-20 23:19:56,078 - INFO - Added job: Senior System Validation Engineer at Not specified
+2025-03-20 23:19:56,096 - INFO - Added job: Senior System Validation Engineer at Not specified
+2025-03-20 23:19:56,114 - INFO - Added job: Senior AI Training Performance Engineer at Not specified
+2025-03-20 23:19:56,131 - INFO - Added job: Product Engineer, Production at Not specified
+2025-03-20 23:19:56,131 - INFO - Found 20 jobs on page 1
+2025-03-20 23:19:56,169 - INFO - Clicked next page button
+2025-03-20 23:20:01,185 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:20:01,187 - INFO - Processing page 1
+2025-03-20 23:20:01,776 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:20:01,782 - INFO - Found 20 jobs with selector: [data-automation-id='jobTitle']
+2025-03-20 23:20:01,798 - INFO - Added job: Product Engineer, Production at Not specified
+2025-03-20 23:20:01,832 - INFO - Added job: Senior Mechanical Engineer at Not specified
+2025-03-20 23:20:01,854 - INFO - Added job: HPC Operations Manager – Hardware Engineering at Not specified
+2025-03-20 23:20:01,871 - INFO - Added job: Senior Product Development Engineer at Not specified
+2025-03-20 23:20:01,889 - INFO - Added job: Senior DSP Communication Engineer at Not specified
+2025-03-20 23:20:01,908 - INFO - Added job: Silicon Power Perf Engineer at Not specified
+2025-03-20 23:20:01,926 - INFO - Added job: Senior Product Engineer at Not specified
+2025-03-20 23:20:01,944 - INFO - Added job: Senior Layout Engineer at Not specified
+2025-03-20 23:20:01,961 - INFO - Added job: Physical Design Engineer at Not specified
+2025-03-20 23:20:01,978 - INFO - Added job: Senior Performance Engineer - Deep Learning at Not specified
+2025-03-20 23:20:01,995 - INFO - Added job: Senior System Networking Engineer, InfiniBand at Not specified
+2025-03-20 23:20:02,012 - INFO - Added job: System Engineer Intern, Autonomous Vehicles - 2025 at Not specified
+2025-03-20 23:20:02,030 - INFO - Added job: Senior Field Application Engineer at Not specified
+2025-03-20 23:20:02,048 - INFO - Added job: Senior High-Performance LLM Training Engineer at Not specified
+2025-03-20 23:20:02,088 - INFO - Added job: AI Algorithm Engineer - Silicon Solution Group at Not specified
+2025-03-20 23:20:02,106 - INFO - Added job: Engineering Manager, AI Developer Technology at Not specified
+2025-03-20 23:20:02,124 - INFO - Added job: Senior Compiler Engineer - AI at Not specified
+2025-03-20 23:20:02,141 - INFO - Added job: Senior DevOps Engineer - Accelerated Computing at Not specified
+2025-03-20 23:20:02,159 - INFO - Added job: Senior DevOps Engineer, Deep Learning Frameworks at Not specified
+2025-03-20 23:20:02,176 - INFO - Added job: Senior Developer Technology Engineer - AI at Not specified
+2025-03-20 23:20:02,176 - INFO - Found 20 jobs on page 1
+2025-03-20 23:20:02,213 - INFO - Clicked next page button
+2025-03-20 23:20:07,230 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:20:07,231 - INFO - Processing page 1
+2025-03-20 23:20:07,835 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:20:07,841 - INFO - Found 20 jobs with selector: [data-automation-id='jobTitle']
+2025-03-20 23:20:07,857 - INFO - Added job: Senior Manager, Interconnect Product Engineering at Not specified
+2025-03-20 23:20:07,875 - INFO - Added job: Clock Design Engineer at Not specified
+2025-03-20 23:20:07,915 - INFO - Added job: Senior DevOps Engineer at Not specified
+2025-03-20 23:20:07,933 - INFO - Added job: Senior Developer Technology Engineer, Public Sector at Not specified
+2025-03-20 23:20:07,950 - INFO - Added job: Senior Power and Thermal Engineer at Not specified
+2025-03-20 23:20:07,968 - INFO - Added job: Manager, Deep Learning Algorithms at Not specified
+2025-03-20 23:20:07,985 - INFO - Added job: Manager, Deep Learning Algorithms at Not specified
+2025-03-20 23:20:08,003 - INFO - Added job: Hardware Validation Engineer at Not specified
+2025-03-20 23:20:08,020 - INFO - Added job: Test Floor Engineer at Not specified
+2025-03-20 23:20:08,037 - INFO - Added job: Senior DevOps Engineer, Deep Learning Frameworks at Not specified
+2025-03-20 23:20:08,054 - INFO - Added job: Test Floor Engineer at Not specified
+2025-03-20 23:20:08,072 - INFO - Added job: Senior Memory Controller Verification Engineer at Not specified
+2025-03-20 23:20:08,090 - INFO - Added job: Senior Observability Engineer, AI and HPC at Not specified
+2025-03-20 23:20:08,107 - INFO - Added job: SDK/FW Verification Engineer at Not specified
+2025-03-20 23:20:08,124 - INFO - Added job: ASIC Physical Design Engineer at Not specified
+2025-03-20 23:20:08,142 - INFO - Added job: Senior System Product Engineer at Not specified
+2025-03-20 23:20:08,159 - INFO - Added job: Perf Engineering Intern - 2025 at Not specified
+2025-03-20 23:20:08,177 - INFO - Added job: Senior Silicon Bringup—Speed Engineer at Not specified
+2025-03-20 23:20:08,194 - INFO - Added job: Senior VLSI Integration Engineer at Not specified
+2025-03-20 23:20:08,211 - INFO - Added job: Senior Board Design Engineer at Not specified
+2025-03-20 23:20:08,212 - INFO - Found 20 jobs on page 1
+2025-03-20 23:20:08,253 - INFO - Clicked next page button
+2025-03-20 23:20:13,265 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:20:13,266 - INFO - Processing page 1
+2025-03-20 23:20:13,860 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:20:13,866 - INFO - Found 20 jobs with selector: [data-automation-id='jobTitle']
+2025-03-20 23:20:13,884 - INFO - Added job: Silicon Performance, Power and Binning Tools Engineer at Not specified
+2025-03-20 23:20:13,924 - INFO - Added job: Senior SWQA Test Development Engineer, NIM at Not specified
+2025-03-20 23:20:13,946 - INFO - Added job: Senior Memory Controller Verification Engineer at Not specified
+2025-03-20 23:20:13,963 - INFO - Added job: Performance Engineering Intern - Summer 2025 at Not specified
+2025-03-20 23:20:13,979 - INFO - Added job: Senior Functional Test Engineer at Not specified
+2025-03-20 23:20:13,996 - INFO - Added job: System Test Design Engineer at Not specified
+2025-03-20 23:20:14,013 - INFO - Added job: Senior Board Design Engineer at Not specified
+2025-03-20 23:20:14,029 - INFO - Added job: Senior Interconnect Product Engineer at Not specified
+2025-03-20 23:20:14,046 - INFO - Added job: AI Developer Technology Engineer Intern - 2025 at Not specified
+2025-03-20 23:20:14,063 - INFO - Added job: BaseOS Foundry Engineer (RDSS Intern) at Not specified
+2025-03-20 23:20:14,080 - INFO - Added job: Senior Firmware Verification Engineer, PCIe at Not specified
+2025-03-20 23:20:14,098 - INFO - Added job: Senior Firmware Design Engineer at Not specified
+2025-03-20 23:20:14,116 - INFO - Added job: Senior Test Product Engineer at Not specified
+2025-03-20 23:20:14,135 - INFO - Added job: Senior Firmware Design Engineer at Not specified
+2025-03-20 23:20:14,152 - INFO - Added job: Silicon Performance, Power and Binning Tools Engineer at Not specified
+2025-03-20 23:20:14,171 - INFO - Added job: Senior System Level Testing Infrastructure Engineer at Not specified
+2025-03-20 23:20:14,188 - INFO - Added job: Senior Verification Engineer - Hardware at Not specified
+2025-03-20 23:20:14,206 - INFO - Added job: Senior Interconnect Product Engineer at Not specified
+2025-03-20 23:20:14,224 - INFO - Added job: Senior Silicon Product Definition Engineer at Not specified
+2025-03-20 23:20:14,242 - INFO - Added job: Senior Deep Learning Compiler Engineer at Not specified
+2025-03-20 23:20:14,242 - INFO - Found 20 jobs on page 1
+2025-03-20 23:20:14,285 - INFO - Clicked next page button
+2025-03-20 23:20:19,306 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:20:19,307 - INFO - Processing page 1
+2025-03-20 23:20:19,900 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:20:19,906 - INFO - Found 20 jobs with selector: [data-automation-id='jobTitle']
+2025-03-20 23:20:19,924 - INFO - Added job: Principal Autonomous Vehicles Engineer - Mapping and Localization at Not specified
+2025-03-20 23:20:19,942 - INFO - Added job: Senior Math Libraries Engineer - Dense Linear Algebra at Not specified
+2025-03-20 23:20:19,965 - INFO - Added job: Senior Manufacturing Product Engineer at Not specified
+2025-03-20 23:20:20,015 - INFO - Added job: Senior Product Test Engineer at Not specified
+2025-03-20 23:20:20,040 - INFO - Added job: Senior Math Libraries Engineer – AI and HPC at Not specified
+2025-03-20 23:20:20,065 - INFO - Added job: SOC Clock Distribution Engineer at Not specified
+2025-03-20 23:20:20,086 - INFO - Added job: Senior Manager, NPI System Product Engineering at Not specified
+2025-03-20 23:20:20,105 - INFO - Added job: Senior Technical Marketing Engineer - Datacenter Networking at Not specified
+2025-03-20 23:20:20,125 - INFO - Added job: Senior Emulation Power Engineer at Not specified
+2025-03-20 23:20:20,143 - INFO - Added job: Senior ASIC Power Engineer at Not specified
+2025-03-20 23:20:20,162 - INFO - Added job: Silicon Product Definition Engineer at Not specified
+2025-03-20 23:20:20,181 - INFO - Added job: Senior System Verification Engineer at Not specified
+2025-03-20 23:20:20,201 - INFO - Added job: Solutions Architect, Retail Data Science at Not specified
+2025-03-20 23:20:20,220 - INFO - Added job: Solutions Architect, Financial Services at Not specified
+2025-03-20 23:20:20,238 - INFO - Added job: Senior Solutions Architect, Retail at Not specified
+2025-03-20 23:20:20,257 - INFO - Added job: Silicon Circuit Characterization Engineer at Not specified
+2025-03-20 23:20:20,275 - INFO - Added job: Test Floor Product Engineer at Not specified
+2025-03-20 23:20:20,294 - INFO - Added job: Solutions Architect, Generative AI Agents and Data Processing at Not specified
+2025-03-20 23:20:20,311 - INFO - Added job: Technical Support Engineer, Linux and HPC Admin at Not specified
+2025-03-20 23:20:20,331 - INFO - Added job: Interconnect Failure Analysis Hardware Engineer at Not specified
+2025-03-20 23:20:20,331 - INFO - Found 20 jobs on page 1
+2025-03-20 23:20:20,387 - INFO - Clicked next page button
+2025-03-20 23:20:25,402 - INFO - Job listings found with selector: [data-automation-id='jobTitle']
+2025-03-20 23:20:25,404 - INFO - Processing page 1
+2025-03-20 23:20:25,584 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x125173c90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b478e453968490fbbd4a158692caf7b3
+2025-03-20 23:20:25,597 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12517e9d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b478e453968490fbbd4a158692caf7b3
+2025-03-20 23:20:25,598 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1094e90d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b478e453968490fbbd4a158692caf7b3
