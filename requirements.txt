@@ -4,7 +4,5 @@ selenium
 webdriver-manager
 python-dateutil
 pytz
-logging
 nltk
 spacy
-re
